@@ -22,7 +22,7 @@ public interface DeptService {
      *
      * @param dept
      */
-    void add(Dept dept);
+    //void add(Dept dept);
 
     /**
      * 根据id查询部门
